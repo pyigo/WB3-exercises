@@ -5,7 +5,7 @@ function favoriteThings(){
         movie: "Home Alone",
         musician: "Wizkid"
     }
-    console.log(favorite_things);
+    console.log(favorite_things.name, favorite_things.movie, favorite_things.musician);
 }
 favoriteThings();
 
